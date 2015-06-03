@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1433178082 source:c:\users\francisco\desktop\proyectomatrizinversa - vanesa chacon\main.cpp
+	"oematriz.h"
+
+1385246014 c:\users\francisco\desktop\proyectomatrizinversa - vanesa chacon\oematriz.h
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+
